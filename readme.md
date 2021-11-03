@@ -1,11 +1,11 @@
 ## Bulk.bet Snippet
-A php only full working example to utillize Bulk.bet's Game API to provide more insight and also a quick way to apply API.
+A php only full working example to utillize Davidkohen.com's Game API to provide more insight and also a quick way to apply API.
 
 ## Getting Started
 
 Simply place contents on a webserver with PHP. Please make sure to CHMOD 777 preferably and by minimum to CHMOD 775 `balance.txt`.
 
-Make sure to place your Bulk.bet API Key on `index.php`.
+Make sure to place your DavidKohen API Key on `index.php`.
 
 Afterwards games will work. Callback logs turn in the `callbackLogs` folder so you can keep track of how sessions are started & bets are processed.
 
